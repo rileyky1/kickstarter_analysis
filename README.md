@@ -10,7 +10,7 @@
 
 ![Theater Outcomes vs Launch](TheaterOutcomesvsLaunch.png)
 
-### Outcomes Based on Goals provides insight into the percentage of plays that were successful, failed or canceled baased on a defined range out set fundraising goals. While there were not any challenges creating this line chart, it is very possible that some may run into issues when trying to write the COUNTIFS formula. If you do not have the correct criteria selected, the data could be misinterpreted or he formula may not work.
+### Outcomes Based on Goals provides insight into the percentage of plays that were successful, failed or canceled baased on a defined range out set fundraising goals. While there were not any challenges creating this line chart, it is very possible that some may run into issues when trying to write the COUNTIFS formula. If you do not have the correct criteria selected, the data could be misinterpreted or the formula may not work.
 
 ![Outcomes Based on Goals](Outcomes_vs_Goals.png)
 
